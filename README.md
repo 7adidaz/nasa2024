@@ -45,12 +45,4 @@ The project uses a `config.yml` file to manage various parameters and settings. 
 - Detection thresholds and filters
 - Output formats and plotting options
 
-Users can modify this file to tailor the project to their specific needs or to experiment with different settings.
-
-## Contributing
-
-Contributions to the Lunar Event Detection Project are welcome. Whether you're improving the model's accuracy, extending its capabilities, or fixing bugs, your input is valuable. Please submit pull requests or open issues for any enhancements or problems you encounter.
-
-## License
-
-[Include license information here]
+Users can modify this file to tailor the project to their needs or experiment with different settings.
